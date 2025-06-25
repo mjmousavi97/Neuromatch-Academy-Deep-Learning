@@ -35,6 +35,7 @@ To run the notebooks:
 !pip install -r requirements.txt
 ```
 3- Follow the instructions in each notebook cell-by-cell.
+
 ---
 📎 Notes
 - These notebooks are re-implemented versions of my work during the NMA Deep Learning course.
