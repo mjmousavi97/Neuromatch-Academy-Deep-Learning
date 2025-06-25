@@ -24,7 +24,7 @@ neuromatch-course/
 ```
 
 ---
-🚀 How to Use
+## 🚀 How to Use
 To run the notebooks:
 
 1- Open any file inside the notebooks/ directory using Google Colab.
@@ -37,7 +37,7 @@ To run the notebooks:
 3- Follow the instructions in each notebook cell-by-cell.
 
 ---
-📎 Notes
+## 📎 Notes
 - These notebooks are re-implemented versions of my work during the NMA Deep Learning course.
 
 - Files are being uploaded progressively as I rework and organize them.
